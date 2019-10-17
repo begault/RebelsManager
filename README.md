@@ -21,6 +21,19 @@ Table of Contents
 
 2.6.3
 
+If you use rbenv:
+```
+rbenv install 2.6.3
+rbenv local 2.6.3
+```
+
+## Rails environment
+
+```
+bundle install
+bin/yarn install
+```
+
 ## Database setup (PostgreSQL)
 
 ```
